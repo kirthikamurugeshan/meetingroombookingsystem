@@ -1,0 +1,17 @@
+<html>
+<head>
+<h1>RESERVATION</h1>
+<style>
+#new-div{
+background-color:pink;
+border:5px solid black;
+width:300px;
+height:300px:
+margin-left:150px;
+padding:50px;
+}
+</style>
+</head>
+<body>
+<center>
+<div id="new-div">
